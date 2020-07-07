@@ -1,0 +1,78 @@
+{"name":"bot","level":"silly","message":"game.on: added: PLAYER_CREATED","timestamp":"2020-07-06T19:44:13.732Z"}
+{"name":"bot","level":"info","message":"connecting to local server.","timestamp":"2020-07-06T19:44:13.732Z"}
+{"name":"bot","level":"silly","message":"ee.game removed listener: PLAYER_CREATED","timestamp":"2020-07-06T19:44:13.733Z"}
+{"name":"bot","level":"info","message":"socket.direct connection open","timestamp":"2020-07-06T19:44:13.734Z"}
+{"name":"bot","level":"info","message":"socket connected.","timestamp":"2020-07-06T19:44:13.734Z"}
+{"name":"bot","level":"warn","message":"\"NODEGAME_GAMECOMMAND_stop\": game cannot be stopped now.","timestamp":"2020-07-06T19:44:13.735Z"}
+{"name":"bot","level":"info","message":"game started.","timestamp":"2020-07-06T19:44:13.793Z"}
+{"name":"bot","level":"info","message":"game started.","timestamp":"2020-07-06T19:44:13.793Z"}
+{"name":"bot","level":"silly","message":"Next step ---> 1.1.1","timestamp":"2020-07-06T19:44:13.793Z"}
+{"name":"bot","level":"info","message":"S: 2020-07-06T19:44:13.794Z,\t464910,\t7335126075681719,\tsay,\tPLAYER_UPDATE,\t981294284444519,\tROOM,\t\t\"stage\",\t\t\"[object O...\",\t0.0.0,\t1,\t0","timestamp":"2020-07-06T19:44:13.794Z"}
+{"name":"bot","level":"silly","message":"step.on: added: PAUSED","timestamp":"2020-07-06T19:44:13.795Z"}
+{"name":"bot","level":"silly","message":"step.on: added: RESUMED","timestamp":"2020-07-06T19:44:13.795Z"}
+{"name":"bot","level":"silly","message":"step.on: added: PLAYING","timestamp":"2020-07-06T19:44:13.795Z"}
+{"name":"bot","level":"info","message":"S: 2020-07-06T19:44:13.795Z,\t131367,\t7335126075681719,\tsay,\tPLAYER_UPDATE,\t981294284444519,\tROOM,\t\t\"stageLevel\",\t\"[object O...\",\t1.1.1,\t1,\t0","timestamp":"2020-07-06T19:44:13.796Z"}
+{"name":"bot","level":"silly","message":"ee.step removed listener: PLAYING","timestamp":"2020-07-06T19:44:13.796Z"}
+{"name":"bot","level":"silly","message":"ee.step removed listener: PAUSED","timestamp":"2020-07-06T19:44:14.502Z"}
+{"name":"bot","level":"silly","message":"ee.step removed listener: RESUMED","timestamp":"2020-07-06T19:44:14.502Z"}
+{"name":"bot","level":"info","message":"S: 2020-07-06T19:44:14.507Z,\t631507,\t7335126075681719,\tset,\tDATA,\t\t981294284444519,\tSERVER,\t\"done\",\t\t\"[object O...\",\t1.1.1,\t1,\t0","timestamp":"2020-07-06T19:44:14.508Z"}
+{"name":"bot","level":"info","message":"S: 2020-07-06T19:44:14.514Z,\t935940,\t7335126075681719,\tsay,\tPLAYER_UPDATE,\t981294284444519,\tROOM,\t\t\"stageLevel\",\t\"[object O...\",\t1.1.1,\t1,\t0","timestamp":"2020-07-06T19:44:14.514Z"}
+{"name":"bot","level":"silly","message":"Next step ---> 2.1.1","timestamp":"2020-07-06T19:44:14.528Z"}
+{"name":"bot","level":"info","message":"S: 2020-07-06T19:44:14.528Z,\t86171,\t7335126075681719,\tsay,\tPLAYER_UPDATE,\t981294284444519,\tROOM,\t\t\"stage\",\t\t\"[object O...\",\t1.1.1,\t1,\t0","timestamp":"2020-07-06T19:44:14.528Z"}
+{"name":"bot","level":"silly","message":"step.on: added: PAUSED","timestamp":"2020-07-06T19:44:14.529Z"}
+{"name":"bot","level":"silly","message":"step.on: added: RESUMED","timestamp":"2020-07-06T19:44:14.529Z"}
+{"name":"bot","level":"silly","message":"step.on: added: PLAYING","timestamp":"2020-07-06T19:44:14.529Z"}
+{"name":"bot","level":"info","message":"S: 2020-07-06T19:44:14.529Z,\t393126,\t7335126075681719,\tsay,\tPLAYER_UPDATE,\t981294284444519,\tROOM,\t\t\"stageLevel\",\t\"[object O...\",\t2.1.1,\t1,\t0","timestamp":"2020-07-06T19:44:14.529Z"}
+{"name":"bot","level":"silly","message":"ee.step removed listener: PLAYING","timestamp":"2020-07-06T19:44:14.529Z"}
+{"name":"bot","level":"silly","message":"ee.step removed listener: PAUSED","timestamp":"2020-07-06T19:44:16.277Z"}
+{"name":"bot","level":"silly","message":"ee.step removed listener: RESUMED","timestamp":"2020-07-06T19:44:16.277Z"}
+{"name":"bot","level":"info","message":"S: 2020-07-06T19:44:16.277Z,\t649198,\t7335126075681719,\tset,\tDATA,\t\t981294284444519,\tSERVER,\t\"done\",\t\t\"[object O...\",\t2.1.1,\t1,\t0","timestamp":"2020-07-06T19:44:16.277Z"}
+{"name":"bot","level":"info","message":"S: 2020-07-06T19:44:16.279Z,\t943698,\t7335126075681719,\tsay,\tPLAYER_UPDATE,\t981294284444519,\tROOM,\t\t\"stageLevel\",\t\"[object O...\",\t2.1.1,\t1,\t0","timestamp":"2020-07-06T19:44:16.279Z"}
+{"name":"bot","level":"silly","message":"Next step ---> 3.1.1","timestamp":"2020-07-06T19:44:16.680Z"}
+{"name":"bot","level":"info","message":"S: 2020-07-06T19:44:16.680Z,\t419291,\t7335126075681719,\tsay,\tPLAYER_UPDATE,\t981294284444519,\tROOM,\t\t\"stage\",\t\t\"[object O...\",\t2.1.1,\t1,\t0","timestamp":"2020-07-06T19:44:16.680Z"}
+{"name":"bot","level":"silly","message":"step.on: added: PAUSED","timestamp":"2020-07-06T19:44:16.681Z"}
+{"name":"bot","level":"silly","message":"step.on: added: RESUMED","timestamp":"2020-07-06T19:44:16.681Z"}
+{"name":"bot","level":"silly","message":"step.on: added: PLAYING","timestamp":"2020-07-06T19:44:16.681Z"}
+{"name":"bot","level":"info","message":"S: 2020-07-06T19:44:16.681Z,\t700700,\t7335126075681719,\tsay,\tPLAYER_UPDATE,\t981294284444519,\tROOM,\t\t\"stageLevel\",\t\"[object O...\",\t3.1.1,\t1,\t0","timestamp":"2020-07-06T19:44:16.681Z"}
+{"name":"bot","level":"silly","message":"ee.step removed listener: PLAYING","timestamp":"2020-07-06T19:44:16.681Z"}
+{"name":"bot","level":"silly","message":"ee.step removed listener: PAUSED","timestamp":"2020-07-06T19:44:18.207Z"}
+{"name":"bot","level":"silly","message":"ee.step removed listener: RESUMED","timestamp":"2020-07-06T19:44:18.207Z"}
+{"name":"bot","level":"info","message":"S: 2020-07-06T19:44:18.207Z,\t73219,\t7335126075681719,\tset,\tDATA,\t\t981294284444519,\tSERVER,\t\"done\",\t\t\"[object O...\",\t3.1.1,\t1,\t0","timestamp":"2020-07-06T19:44:18.207Z"}
+{"name":"bot","level":"info","message":"S: 2020-07-06T19:44:18.208Z,\t522488,\t7335126075681719,\tsay,\tPLAYER_UPDATE,\t981294284444519,\tROOM,\t\t\"stageLevel\",\t\"[object O...\",\t3.1.1,\t1,\t0","timestamp":"2020-07-06T19:44:18.209Z"}
+{"name":"bot","level":"silly","message":"Next step ---> 4.1.1","timestamp":"2020-07-06T19:44:18.748Z"}
+{"name":"bot","level":"info","message":"S: 2020-07-06T19:44:18.749Z,\t214492,\t7335126075681719,\tsay,\tPLAYER_UPDATE,\t981294284444519,\tROOM,\t\t\"stage\",\t\t\"[object O...\",\t3.1.1,\t1,\t0","timestamp":"2020-07-06T19:44:18.749Z"}
+{"name":"bot","level":"silly","message":"step.on: added: PAUSED","timestamp":"2020-07-06T19:44:18.749Z"}
+{"name":"bot","level":"silly","message":"step.on: added: RESUMED","timestamp":"2020-07-06T19:44:18.749Z"}
+{"name":"bot","level":"silly","message":"step.on: added: PLAYING","timestamp":"2020-07-06T19:44:18.749Z"}
+{"name":"bot","level":"info","message":"S: 2020-07-06T19:44:18.750Z,\t193409,\t7335126075681719,\tsay,\tPLAYER_UPDATE,\t981294284444519,\tROOM,\t\t\"stageLevel\",\t\"[object O...\",\t4.1.1,\t1,\t0","timestamp":"2020-07-06T19:44:18.750Z"}
+{"name":"bot","level":"silly","message":"ee.step removed listener: PLAYING","timestamp":"2020-07-06T19:44:18.750Z"}
+{"name":"bot","level":"silly","message":"ee.step removed listener: PAUSED","timestamp":"2020-07-06T19:44:19.784Z"}
+{"name":"bot","level":"silly","message":"ee.step removed listener: RESUMED","timestamp":"2020-07-06T19:44:19.784Z"}
+{"name":"bot","level":"info","message":"S: 2020-07-06T19:44:19.784Z,\t790346,\t7335126075681719,\tset,\tDATA,\t\t981294284444519,\tSERVER,\t\"done\",\t\t\"[object O...\",\t4.1.1,\t1,\t0","timestamp":"2020-07-06T19:44:19.784Z"}
+{"name":"bot","level":"info","message":"S: 2020-07-06T19:44:19.787Z,\t281878,\t7335126075681719,\tsay,\tPLAYER_UPDATE,\t981294284444519,\tROOM,\t\t\"stageLevel\",\t\"[object O...\",\t4.1.1,\t1,\t0","timestamp":"2020-07-06T19:44:19.787Z"}
+{"name":"bot","level":"info","message":"game paused.","timestamp":"2020-07-06T19:44:33.245Z"}
+{"name":"bot","level":"info","message":"game resumed.","timestamp":"2020-07-06T19:44:43.261Z"}
+{"name":"bot","level":"silly","message":"Next step ---> 7.1.1","timestamp":"2020-07-06T19:44:43.262Z"}
+{"name":"bot","level":"info","message":"S: 2020-07-06T19:44:43.262Z,\t412293,\t7335126075681719,\tsay,\tPLAYER_UPDATE,\t981294284444519,\tROOM,\t\t\"stage\",\t\t\"[object O...\",\t4.1.1,\t1,\t0","timestamp":"2020-07-06T19:44:43.263Z"}
+{"name":"bot","level":"silly","message":"step.on: added: PAUSED","timestamp":"2020-07-06T19:44:43.263Z"}
+{"name":"bot","level":"silly","message":"step.on: added: RESUMED","timestamp":"2020-07-06T19:44:43.264Z"}
+{"name":"bot","level":"silly","message":"step.on: added: PLAYING","timestamp":"2020-07-06T19:44:43.264Z"}
+{"name":"bot","level":"info","message":"S: 2020-07-06T19:44:43.264Z,\t698474,\t7335126075681719,\tsay,\tPLAYER_UPDATE,\t981294284444519,\tROOM,\t\t\"stageLevel\",\t\"[object O...\",\t7.1.1,\t1,\t0","timestamp":"2020-07-06T19:44:43.264Z"}
+{"name":"bot","level":"silly","message":"ee.step removed listener: PLAYING","timestamp":"2020-07-06T19:44:43.264Z"}
+{"name":"bot","level":"silly","message":"ee.step removed listener: PAUSED","timestamp":"2020-07-06T19:44:43.606Z"}
+{"name":"bot","level":"silly","message":"ee.step removed listener: RESUMED","timestamp":"2020-07-06T19:44:43.606Z"}
+{"name":"bot","level":"info","message":"S: 2020-07-06T19:44:43.606Z,\t952182,\t7335126075681719,\tset,\tDATA,\t\t981294284444519,\tSERVER,\t\"done\",\t\t\"[object O...\",\t7.1.1,\t1,\t0","timestamp":"2020-07-06T19:44:43.606Z"}
+{"name":"bot","level":"info","message":"S: 2020-07-06T19:44:43.624Z,\t523847,\t7335126075681719,\tsay,\tPLAYER_UPDATE,\t981294284444519,\tROOM,\t\t\"stageLevel\",\t\"[object O...\",\t7.1.1,\t1,\t0","timestamp":"2020-07-06T19:44:43.624Z"}
+{"name":"bot","level":"silly","message":"Next step ---> 8.1.1","timestamp":"2020-07-06T19:44:43.667Z"}
+{"name":"bot","level":"info","message":"S: 2020-07-06T19:44:43.667Z,\t990161,\t7335126075681719,\tsay,\tPLAYER_UPDATE,\t981294284444519,\tROOM,\t\t\"stage\",\t\t\"[object O...\",\t7.1.1,\t1,\t0","timestamp":"2020-07-06T19:44:43.667Z"}
+{"name":"bot","level":"silly","message":"step.on: added: PAUSED","timestamp":"2020-07-06T19:44:43.668Z"}
+{"name":"bot","level":"silly","message":"step.on: added: RESUMED","timestamp":"2020-07-06T19:44:43.668Z"}
+{"name":"bot","level":"silly","message":"step.on: added: PLAYING","timestamp":"2020-07-06T19:44:43.668Z"}
+{"name":"bot","level":"info","message":"S: 2020-07-06T19:44:43.669Z,\t414435,\t7335126075681719,\tsay,\tPLAYER_UPDATE,\t981294284444519,\tROOM,\t\t\"stageLevel\",\t\"[object O...\",\t8.1.1,\t1,\t0","timestamp":"2020-07-06T19:44:43.669Z"}
+{"name":"bot","level":"silly","message":"ee.step removed listener: PLAYING","timestamp":"2020-07-06T19:44:43.669Z"}
+{"name":"bot","level":"silly","message":"ee.step removed listener: PAUSED","timestamp":"2020-07-06T19:44:45.548Z"}
+{"name":"bot","level":"silly","message":"ee.step removed listener: RESUMED","timestamp":"2020-07-06T19:44:45.548Z"}
+{"name":"bot","level":"info","message":"S: 2020-07-06T19:44:45.549Z,\t663400,\t7335126075681719,\tset,\tDATA,\t\t981294284444519,\tSERVER,\t\"done\",\t\t\"[object O...\",\t8.1.1,\t1,\t0","timestamp":"2020-07-06T19:44:45.549Z"}
+{"name":"bot","level":"info","message":"S: 2020-07-06T19:44:45.566Z,\t547769,\t7335126075681719,\tsay,\tPLAYER_UPDATE,\t981294284444519,\tROOM,\t\t\"stageLevel\",\t\"[object O...\",\t8.1.1,\t1,\t0","timestamp":"2020-07-06T19:44:45.566Z"}
+{"name":"bot","level":"silly","message":"Next step ---> NODEGAME_GAMEOVER","timestamp":"2020-07-06T19:44:45.580Z"}
+{"name":"bot","level":"info","message":"game over.","timestamp":"2020-07-06T19:44:45.581Z"}

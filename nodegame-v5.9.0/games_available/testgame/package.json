@@ -1,0 +1,8 @@
+{
+    "name": "testgame",
+    "version": "0.0.1",
+    "description": "a test nodegame to test nodegame",
+    "author": "Jon Bowen <jbowen23@uwo.ca>",
+    "license": "MIT/X11",
+    "homepage": "http://nodegame.org"
+}

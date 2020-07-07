@@ -1,0 +1,70 @@
+{
+  "_from": "ultimatum-game@^5.0.0",
+  "_id": "ultimatum-game@5.3.0",
+  "_inBundle": false,
+  "_integrity": "sha512-hqX0lJ/UY66iwWCay70DaUS5TmTOknR9zWNZHRyNJG2D+7RWrO3w3T+6bkcFJ4EBUa6TY9PM1JGUoPOsdzYgNQ==",
+  "_location": "/ultimatum-game",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ultimatum-game@^5.0.0",
+    "name": "ultimatum-game",
+    "escapedName": "ultimatum-game",
+    "rawSpec": "^5.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^5.0.0"
+  },
+  "_requiredBy": [
+    "/nodegame",
+    "/nodegame-generator"
+  ],
+  "_resolved": "https://registry.npmjs.org/ultimatum-game/-/ultimatum-game-5.3.0.tgz",
+  "_shasum": "a1b08b83fb06417fdfd1b360c2e224de7e73bea6",
+  "_spec": "ultimatum-game@^5.0.0",
+  "_where": "C:\\Users\\JonBo\\pavilion\\node_modules\\nodegame",
+  "author": {
+    "name": "Stefano Balietti",
+    "email": "ste@nodegame.org",
+    "url": "http://stefanobalietti.com"
+  },
+  "bugs": {
+    "url": "https://github.com/nodegame/ultimatum/issues"
+  },
+  "bundleDependencies": false,
+  "card": {
+    "description": "Ultimatum game: take it or leave it",
+    "url": "https://github.com/nodeGame/ultimatum-game",
+    "wiki": "https://en.wikipedia.org/wiki/Ultimatum_game",
+    "icon": "group_work"
+  },
+  "channelName": "ultimatum",
+  "deprecated": false,
+  "description": "Plays an ultimatum game with nodegame.",
+  "devDependencies": {
+    "mocha": ">= 2.1.0",
+    "should": ">= 5.0.0"
+  },
+  "engines": {
+    "node": "*",
+    "nodegame": ">= 4.0.0"
+  },
+  "homepage": "http://nodegame.org",
+  "keywords": [
+    "nodegame",
+    "behavioral",
+    "ultimatum",
+    "game theory"
+  ],
+  "license": "MIT",
+  "main": "./index.html",
+  "name": "ultimatum-game",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nodegame/ultimatum.git"
+  },
+  "scripts": {
+    "test": "mocha ./test/test.*.js"
+  },
+  "version": "5.3.0"
+}
