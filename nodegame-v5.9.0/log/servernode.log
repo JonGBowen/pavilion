@@ -1,1 +1,7 @@
 {"level":"warn","message":"GameLoader.loadAuthDir: channel ultimatum: authorization disabled in configuration file","timestamp":"2020-07-06T19:42:54.968Z"}
+{"level":"warn","message":"GameLoader.loadAuthDir: channel testgame: authorization disabled in configuration file","timestamp":"2020-07-09T21:35:07.324Z"}
+{"level":"warn","message":"GameLoader.loadAuthDir: channel ultimatum: authorization disabled in configuration file","timestamp":"2020-07-09T21:35:07.369Z"}
+{"level":"warn","message":"GameLoader.loadAuthDir: channel testgame: authorization disabled in configuration file","timestamp":"2020-07-23T04:43:37.475Z"}
+{"level":"warn","message":"GameLoader.loadAuthDir: channel ultimatum: authorization disabled in configuration file","timestamp":"2020-07-23T04:43:37.518Z"}
+{"level":"warn","message":"GameLoader.loadAuthDir: channel testgame: authorization disabled in configuration file","timestamp":"2020-07-23T05:16:53.531Z"}
+{"level":"warn","message":"GameLoader.loadAuthDir: channel ultimatum: authorization disabled in configuration file","timestamp":"2020-07-23T05:16:53.561Z"}

@@ -35,11 +35,13 @@ module.exports = {
     // # Game specific properties
 
     // Number of game rounds repetitions.
-    REPEAT: 4,
+    REPEAT: 10,
 
     // In case an incoming offer does not pass validation, which indicates
     // cheating, re-set the dictator's offer to this value.
     defaultOffer: 100,
+
+    wordset: ["ADORE","YARN","ANCHOR","BURGLAR","GIGGLE","OUTFIT","RUMOUR","DEPTH","ALGEBRA","WRITE","ANGRY","EXAM","INSTRUCTION","PEN","BETTER","LEAD","COUCH","ABNORMAL","BANDANA","VOID"]
 
     // # Treatments definition.
 

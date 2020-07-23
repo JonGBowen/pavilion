@@ -1,0 +1,3 @@
+id,type,workerid,hitid,assignmentid,access,exit,approve,reject,bonus,disconnected,disconnectedStage
+55068511755647,bot,NA,NA,NA,NA,NA,1,0,0,0,NA
+234343609037305,player,NA,NA,NA,NA,NA,0,1,0,1,4.1.1
