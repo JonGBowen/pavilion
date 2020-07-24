@@ -15,7 +15,7 @@ module.exports = function(treatmentName, settings, stager, setup, gameRoom) {
 
     stager.extendStep('game', {
         roles: {
-            DICTATOR: {
+            SPEAKER: {
                 cb: function() {
                     // This Dictator BOT makes an initial offer of 50
                     // or repeats any offer previously received.
@@ -29,7 +29,7 @@ module.exports = function(treatmentName, settings, stager, setup, gameRoom) {
                     }
                 }
             },
-            OBSERVER: {
+            GUESSER: {
                 cb: function() {
                     var node = this.node;
                     node.on.data('decision', function(msg) {

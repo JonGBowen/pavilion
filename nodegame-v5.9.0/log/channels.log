@@ -9,3 +9,4 @@
 {"name":"testgame","level":"error","message":"PlayerServer.on.say.DATA: Msg for monitor, but no monitor found. From: 559654591660227","timestamp":"2020-07-09T21:48:55.636Z"}
 {"name":"testgame","level":"error","message":"PlayerServer.on.say.DATA: Msg for monitor, but no monitor found. From: 559654591660227","timestamp":"2020-07-09T21:49:08.618Z"}
 {"name":"testgame","level":"error","message":"PlayerServer.on.say.DATA: Msg for monitor, but no monitor found. From: 559654591660227","timestamp":"2020-07-09T21:49:09.415Z"}
+{"name":"testgame","level":"error","message":"SocketManager.send2client: Msg not sent. Could not find socket for recipient: bot (last resolved as: null)","timestamp":"2020-07-24T05:04:44.712Z"}

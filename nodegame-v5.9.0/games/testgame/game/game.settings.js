@@ -41,7 +41,7 @@ module.exports = {
     // cheating, re-set the dictator's offer to this value.
     defaultOffer: 100,
 
-    wordset: ["ADORE","YARN","ANCHOR","BURGLAR","GIGGLE","OUTFIT","RUMOUR","DEPTH","ALGEBRA","WRITE","ANGRY","EXAM","INSTRUCTION","PEN","BETTER","LEAD","COUCH","ABNORMAL","BANDANA","VOID"]
+    wordset: ["ADORE","YARN","ANCHOR","BURGLAR","GIGGLE","OUTFIT","RUMOUR","DEPTH","ALGEBRA","WRITE","ANGRY","EXAM","INSTRUCTION","PEN","BETTER","LEAD","COUCH","ABNORMAL","BANDANA","VOID"],
 
     // # Treatments definition.
 

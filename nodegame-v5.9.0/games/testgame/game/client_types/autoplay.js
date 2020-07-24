@@ -39,7 +39,7 @@ module.exports = function(treatmentName, settings, stager, setup, gameRoom) {
                         _cb = stepObj._roles[this.role];
                         _cb.call(this);
 
-                        if ((this.role === 'DICTATOR' && id === 'game')) {
+                        if ((this.role === 'SPEAKER' && id === 'game')) {
                             node.on('PLAYING', function() {
                                 node.timer.randomExec(function() {
                                     node.game.timer.doTimeUp();

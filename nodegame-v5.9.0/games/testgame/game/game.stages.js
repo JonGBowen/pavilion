@@ -13,6 +13,7 @@ module.exports = function(stager, settings) {
 
      stager
         .next('instructions')
+        .next('instructions2')
         .repeat('game', settings.REPEAT)
         .next('end')
         .gameover();

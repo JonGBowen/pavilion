@@ -45,17 +45,21 @@ module.exports = function(treatmentName, settings, stager, setup, gameRoom) {
         frame: 'instructions.htm'
     });
 
+    stager.extendStep('instructions2', {
+        frame: 'instructions2.htm'
+    });
+
     stager.extendStep('game', {
         donebutton: false,
         frame: 'game.htm',
         roles: {
-            DICTATOR: {
+            SPEAKER: {
                 timer: settings.bidTime,
                 cb: function() {
                     var button, offer;
 
                     // Make the dictator display visible.
-                    W.getElementById('dictator').style.display = '';
+                    W.getElementById('speaker').style.display = '';
                     // W.gid = W.getElementById.
                     button = W.gid('submitOffer');
                     offer =  W.gid('offer');
@@ -88,12 +92,12 @@ module.exports = function(treatmentName, settings, stager, setup, gameRoom) {
                     W.gid('submitOffer').click();
                 }
             },
-            OBSERVER: {
+            GUESSER: {
                 cb: function() {
                     var span, div, dotsObj;
 
                     // Make the observer display visible.
-                    div = W.getElementById('observer').style.display = '';
+                    div = W.getElementById('guesser').style.display = '';
                     span = W.getElementById('dots');
                     dotsObj = W.addLoadingDots(span);
 
